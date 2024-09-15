@@ -1,0 +1,3 @@
+[submodule "themes/hacker"]
+	path = themes/hacker
+	url = https://github.com/CodeDaraW/Hacker.git
